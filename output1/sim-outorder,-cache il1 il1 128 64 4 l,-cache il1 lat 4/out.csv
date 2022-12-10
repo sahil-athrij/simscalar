@@ -1,0 +1,4 @@
+model,bench mark,parameters,sim_total_insn,sim_total_refs,sim_num_insn,sim_num_refs,sim_total_branches,sim_cycle,sim_CPI,pred_miss_rate,il1.miss_rate,dl1.miss_rate,ul2.miss_rate,mem.page_mem
+sim-outorder,perl.ss,-cache:il1 il1:128:64:4:l -cache:il1lat 4,76067982,35073244,65131308,30894003,15650272,38820547,0.5960,0.04414685459933752,0.0060,0.0027,0.0056,660k
+sim-outorder,compress95.ss,-cache:il1 il1:128:64:4:l -cache:il1lat 4,474674725,159043598,401587604,136350732,91091690,267271622,0.6655,0.07625070737222142,0.0000,0.0779,0.1479,1096k
+sim-outorder,swim.ss,-cache:il1 il1:128:64:4:l -cache:il1lat 4,737371788,239938363,736511341,239681951,12870152,607231458,0.8245,0.010198710203323387,0.0000,0.2564,0.0771,3868k

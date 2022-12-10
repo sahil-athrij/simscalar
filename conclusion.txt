@@ -1,0 +1,11 @@
+
+1) Sim-Fast is just functional and does not give any info on architecture hence it's also the fastest
+2) Sim-Cache is also mostly just functional, but it does implement the caching system and gives cache miss rates
+3) Sim-OutOrder is a fully architectural sim and gives detailed simulation and is very slow
+4) Changing the predictor to 2lev from Bimod and did not change prediction accuracy.
+5) Changing the cache to 4 way associative reduced the cache miss rate but not as much as 8 way and reduced CPI
+6) Changing the cache to 8 way associative reduced the cache miss rate and reduced CPI
+7) Changing the L2 cache did not affect l2 misses in any way but significantly worsened CPI
+8) Increasing memory latency slighly increased CPI
+9) Warming up the pipeline gave a better representation of a full pipeline execution .
+10) (warm up changed from 100M to 10M as there is only 73M Inst in Perl

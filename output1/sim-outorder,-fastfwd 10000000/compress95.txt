@@ -1,0 +1,152 @@
+SPEC 129.compress harness
+Initial File Size:136000	Start character:q
+The starting size is: 136002
+The compressed size is: 78277
+The compressed/uncompressed size is: 136002
+Files both have length 136002
+First character (u) and Last Character (
+) match. 
+The starting size is: 136005
+The compressed size is: 78281
+The compressed/uncompressed size is: 136005
+Files both have length 136005
+First character (u) and Last Character (
+) match. 
+The starting size is: 136009
+The compressed size is: 78285
+The compressed/uncompressed size is: 136009
+Files both have length 136009
+First character (u) and Last Character (
+) match. 
+The starting size is: 136014
+The compressed size is: 78289
+The compressed/uncompressed size is: 136014
+Files both have length 136014
+First character (u) and Last Character (
+) match. 
+The starting size is: 136020
+The compressed size is: 78293
+The compressed/uncompressed size is: 136020
+Files both have length 136020
+First character (u) and Last Character (
+) match. 
+The starting size is: 136027
+The compressed size is: 78297
+The compressed/uncompressed size is: 136027
+Files both have length 136027
+First character (u) and Last Character (
+) match. 
+The starting size is: 136035
+The compressed size is: 78301
+The compressed/uncompressed size is: 136035
+Files both have length 136035
+First character (u) and Last Character (
+) match. 
+The starting size is: 136044
+The compressed size is: 78305
+The compressed/uncompressed size is: 136044
+Files both have length 136044
+First character (u) and Last Character (
+) match. 
+The starting size is: 136054
+The compressed size is: 78309
+The compressed/uncompressed size is: 136054
+Files both have length 136054
+First character (u) and Last Character (
+) match. 
+The starting size is: 136065
+The compressed size is: 78313
+The compressed/uncompressed size is: 136065
+Files both have length 136065
+First character (u) and Last Character (
+) match. 
+The starting size is: 136077
+The compressed size is: 78317
+The compressed/uncompressed size is: 136077
+Files both have length 136077
+First character (u) and Last Character (
+) match. 
+The starting size is: 136090
+The compressed size is: 78321
+The compressed/uncompressed size is: 136090
+Files both have length 136090
+First character (u) and Last Character (
+) match. 
+The starting size is: 136104
+The compressed size is: 78325
+The compressed/uncompressed size is: 136104
+Files both have length 136104
+First character (u) and Last Character (
+) match. 
+The starting size is: 136119
+The compressed size is: 78329
+The compressed/uncompressed size is: 136119
+Files both have length 136119
+First character (u) and Last Character (
+) match. 
+The starting size is: 136135
+The compressed size is: 78333
+The compressed/uncompressed size is: 136135
+Files both have length 136135
+First character (u) and Last Character (
+) match. 
+The starting size is: 136152
+The compressed size is: 78337
+The compressed/uncompressed size is: 136152
+Files both have length 136152
+First character (u) and Last Character (
+) match. 
+The starting size is: 136170
+The compressed size is: 78341
+The compressed/uncompressed size is: 136170
+Files both have length 136170
+First character (u) and Last Character (
+) match. 
+The starting size is: 136189
+The compressed size is: 78345
+The compressed/uncompressed size is: 136189
+Files both have length 136189
+First character (u) and Last Character (
+) match. 
+The starting size is: 136209
+The compressed size is: 78349
+The compressed/uncompressed size is: 136209
+Files both have length 136209
+First character (u) and Last Character (
+) match. 
+The starting size is: 136230
+The compressed size is: 78353
+The compressed/uncompressed size is: 136230
+Files both have length 136230
+First character (u) and Last Character (
+) match. 
+The starting size is: 136252
+The compressed size is: 78357
+The compressed/uncompressed size is: 136252
+Files both have length 136252
+First character (u) and Last Character (
+) match. 
+The starting size is: 136275
+The compressed size is: 78361
+The compressed/uncompressed size is: 136275
+Files both have length 136275
+First character (u) and Last Character (
+) match. 
+The starting size is: 136299
+The compressed size is: 78365
+The compressed/uncompressed size is: 136299
+Files both have length 136299
+First character (u) and Last Character (
+) match. 
+The starting size is: 136324
+The compressed size is: 78369
+The compressed/uncompressed size is: 136324
+Files both have length 136324
+First character (u) and Last Character (
+) match. 
+The starting size is: 136350
+The compressed size is: 78373
+The compressed/uncompressed size is: 136350
+Files both have length 136350
+First character (u) and Last Character (
+) match. 

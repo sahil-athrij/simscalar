@@ -1,0 +1,9 @@
+sim-fast
+sim-cache
+sim-outorder
+sim-outorder,-bpred:2lev 1 512 4 0
+sim-outorder,-cache:il1 il1:128:64:4:l,-cache:il1lat 4
+sim-outorder,-cache:il1 il1:64:64:8:l,-cache:il1lat 6
+sim-outorder,-cache:il2 dl2,-cache:dl2 ul2:1024:64:16:l,-cache:dl2lat 12
+sim-outorder,-mem:lat 20 4
+sim-outorder,-fastfwd 10000000

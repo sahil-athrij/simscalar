@@ -1,0 +1,4 @@
+model,bench mark,parameters,sim_num_insn,mem.page_mem
+sim-fast,perl.ss,,65131308,660k
+sim-fast,compress95.ss,,401587604,1096k
+sim-fast,swim.ss,,736511341,3868k

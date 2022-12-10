@@ -1,0 +1,4 @@
+model,bench mark,parameters,sim_num_insn,sim_num_refs,il1.miss_rate,dl1.miss_rate,mem.page_mem
+sim-cache,perl.ss,,65131308,30894003,0.1151,0.0314,660k
+sim-cache,compress95.ss,,401587604,136350732,0.0001,0.0924,1096k
+sim-cache,swim.ss,,736511341,239681951,0.0009,0.5022,3868k

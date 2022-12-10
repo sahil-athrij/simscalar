@@ -1,0 +1,16 @@
+ SPEC benchmark 102.swim
+  
+ NUMBER OF POINTS IN THE X DIRECTION     128
+ NUMBER OF POINTS IN THE Y DIRECTION     128
+ GRID SPACING IN THE X DIRECTION        250.
+ GRID SPACING IN THE Y DIRECTION        250.
+ TIME STEP                               10.
+ TIME FILTER PARAMETER                  .001
+ NUMBER OF ITERATIONS                    200
+
+ CYCLE NUMBER  200 MODEL TIME IN  HOURS   .56
+
+ Pcheck =          NaN
+ Ucheck =          NaN
+ Vcheck =          NaN
+
